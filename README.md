@@ -1,2 +1,2 @@
 # cpp-calc
-Basic calculator with int-based functions written in C++
+This is a text-based calculator app (addition-only) written in C++ with some basic functions. You can do whatever you want with it, as long as it's good-intentioned.
